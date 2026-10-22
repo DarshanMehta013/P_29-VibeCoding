@@ -1,0 +1,24 @@
+====================================================
+          PHARMACARE MEDICAL STORE & CLINIC        
+     Opp. City Hospital, Station Road, Ahmedabad    
+            Phone: +91 98765 43210                  
+====================================================
+Invoice No : INV-2026-0005        Date: 2026-10-23 01:30:34
+Customer   : Rohan Gupta          Phone: 9898765432
+Doctor     : Dr. M. Chawla
+----------------------------------------------------
+Item Description         Qty   Price    Total     
+----------------------------------------------------
+Ibuprofen 400mg (Brufen) 4     28.00    112.00    
+----------------------------------------------------
+Subtotal:                              Rs.   112.00
+GST Tax:                               Rs.    13.44
+Discount:                              Rs.     0.00
+====================================================
+NET AMOUNT PAYABLE:                    Rs.   125.44
+Payment Mode: UPI
+====================================================
+       Thank you for your visit! Get well soon!     
+    Medicines once sold can only be exchanged with   
+       original bill within 7 days of purchase.     
+====================================================
