@@ -1,0 +1,88 @@
+[
+    {
+        "invoice_no": "INV-2026-0003",
+        "customer": {
+            "name": "Diya Shah",
+            "phone": "9812345678",
+            "doctor": "Dr. R. Joshi",
+            "address": "88, CG Road, Ahmedabad"
+        },
+        "invoice_date": "2026-10-22 10:15:00",
+        "subtotal": 105.0,
+        "tax_amount": 5.25,
+        "discount": 0.0,
+        "net_total": 110.25,
+        "payment_mode": "Card",
+        "items": [
+            {
+                "medicine_name": "Vitamin C & Zinc (Limcee)",
+                "batch_no": "BAT-108",
+                "quantity": 3,
+                "unit_price": 35.0,
+                "line_total": 105.0
+            }
+        ]
+    },
+    {
+        "invoice_no": "INV-2026-0002",
+        "customer": {
+            "name": "Meet Patel",
+            "phone": "9823456789",
+            "doctor": "Dr. S. Mehta",
+            "address": "45, Ring Road, Surat"
+        },
+        "invoice_date": "2026-10-20 16:45:00",
+        "subtotal": 275.0,
+        "tax_amount": 33.0,
+        "discount": 10.0,
+        "net_total": 298.0,
+        "payment_mode": "Cash",
+        "items": [
+            {
+                "medicine_name": "Amoxicillin 500mg",
+                "batch_no": "BAT-102",
+                "quantity": 1,
+                "unit_price": 85.0,
+                "line_total": 85.0
+            },
+            {
+                "medicine_name": "Pantoprazole 40mg (Pan-40)",
+                "batch_no": "BAT-105",
+                "quantity": 2,
+                "unit_price": 95.0,
+                "line_total": 190.0
+            }
+        ]
+    },
+    {
+        "invoice_no": "INV-2026-0001",
+        "customer": {
+            "name": "Vivaan Sharma",
+            "phone": "9876543210",
+            "doctor": "Dr. A. K. Verma",
+            "address": "12, Shanti Nagar, Mumbai"
+        },
+        "invoice_date": "2026-10-18 11:30:00",
+        "subtotal": 87.0,
+        "tax_amount": 10.44,
+        "discount": 5.0,
+        "net_total": 92.44,
+        "payment_mode": "UPI",
+        "items": [
+            {
+                "medicine_name": "Paracetamol 650mg (Dolo)",
+                "batch_no": "BAT-101",
+                "quantity": 2,
+                "unit_price": 32.5,
+                "line_total": 65.0
+            },
+            {
+                "medicine_name": "Cetirizine 10mg",
+                "batch_no": "BAT-104",
+                "quantity": 1,
+                "unit_price": 22.0,
+                "line_total": 22.0
+            }
+        ]
+    }
+]

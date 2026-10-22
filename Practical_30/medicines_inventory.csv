@@ -1,0 +1,11 @@
+ID,Batch No,Medicine Name,Category,Manufacturer,Price (INR),Stock Quantity,Expiry Date,Recorded Date
+10,BAT-110,Ibuprofen 400mg (Brufen),Analgesics,Abbott India,28.0,5,2027-02-28,2026-10-23 01:15:18
+9,BAT-109,Cough Syrup (Ascoril D+),Respiratory,Glenmark,125.0,8,2027-03-15,2026-10-23 01:15:18
+8,BAT-108,Vitamin C & Zinc (Limcee),Supplements,Abbott India,35.0,197,2028-06-30,2026-10-23 01:15:18
+7,BAT-107,Atorvastatin 10mg,Cardiovascular,Lupin Pharma,115.0,60,2027-05-10,2026-10-23 01:15:18
+6,BAT-106,Metformin 500mg (Glycomet),Antidiabetic,USV Ltd,42.0,110,2027-11-20,2026-10-23 01:15:18
+5,BAT-105,Pantoprazole 40mg (Pan-40),Gastrointestinal,Alkem Labs,95.0,88,2027-09-15,2026-10-23 01:15:18
+4,BAT-104,Cetirizine 10mg,Antihistamine,Sun Pharma,22.0,119,2028-01-30,2026-10-23 01:15:18
+3,BAT-103,Azithromycin 500mg,Antibiotics,Zydus Cadila,120.0,45,2026-12-31,2026-10-23 01:15:18
+2,BAT-102,Amoxicillin 500mg,Antibiotics,Cipla Ltd,85.0,79,2027-04-15,2026-10-23 01:15:18
+1,BAT-101,Paracetamol 650mg (Dolo),Antipyretic,Micro Labs,32.5,148,2027-08-31,2026-10-23 01:15:18

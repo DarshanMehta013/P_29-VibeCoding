@@ -1,0 +1,25 @@
+====================================================
+          PHARMACARE MEDICAL STORE & CLINIC        
+     Opp. City Hospital, Station Road, Ahmedabad    
+            Phone: +91 98765 43210                  
+====================================================
+Invoice No : INV-2026-0001        Date: 2026-10-18 11:30:00
+Customer   : Vivaan Sharma        Phone: 9876543210
+Doctor     : Dr. A. K. Verma
+----------------------------------------------------
+Item Description         Qty   Price    Total     
+----------------------------------------------------
+Paracetamol 650mg (Dolo) 2     32.50    65.00     
+Cetirizine 10mg          1     22.00    22.00     
+----------------------------------------------------
+Subtotal:                              Rs.    87.00
+GST Tax:                               Rs.    10.44
+Discount:                              Rs.     5.00
+====================================================
+NET AMOUNT PAYABLE:                    Rs.    92.44
+Payment Mode: UPI
+====================================================
+       Thank you for your visit! Get well soon!     
+    Medicines once sold can only be exchanged with   
+       original bill within 7 days of purchase.     
+====================================================
