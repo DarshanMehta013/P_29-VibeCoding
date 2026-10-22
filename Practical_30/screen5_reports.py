@@ -9,13 +9,17 @@ Features:
 """
 
 import os
+import sys
 import csv
-import tkinter as tk
-from tkinter import ttk, messagebox, filedialog
 from pathlib import Path
-from database import DatabaseManager
 
 BASE_DIR = Path(__file__).resolve().parent
+if str(BASE_DIR) not in sys.path:
+    sys.path.insert(0, str(BASE_DIR))
+
+import tkinter as tk
+from tkinter import ttk, messagebox, filedialog
+from database import DatabaseManager
 
 THEME = {
     "header_bg": "#0f172a",

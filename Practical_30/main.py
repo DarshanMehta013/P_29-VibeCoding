@@ -20,12 +20,15 @@ try:
 except Exception:
     pass
 
-from database import DatabaseManager
-
 if getattr(sys, "frozen", False):
     BASE_DIR = Path(sys.executable).resolve().parent
 else:
     BASE_DIR = Path(__file__).resolve().parent
+
+if str(BASE_DIR) not in sys.path:
+    sys.path.insert(0, str(BASE_DIR))
+
+from database import DatabaseManager
 
 # Color Palette (Medical Slate, Cyan & Emerald Theme)
 THEME = {

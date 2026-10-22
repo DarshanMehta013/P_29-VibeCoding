@@ -10,12 +10,16 @@ Features:
 """
 
 import os
-import tkinter as tk
-from tkinter import ttk, messagebox
+import sys
 from pathlib import Path
-from database import DatabaseManager
 
 BASE_DIR = Path(__file__).resolve().parent
+if str(BASE_DIR) not in sys.path:
+    sys.path.insert(0, str(BASE_DIR))
+
+import tkinter as tk
+from tkinter import ttk, messagebox
+from database import DatabaseManager
 
 THEME = {
     "header_bg": "#0f172a",
